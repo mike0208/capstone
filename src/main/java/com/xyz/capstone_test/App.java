@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class App 
 {
 	static WebDriver driver;
-	static String webDriverPath="/home/ubuntu/chromedriver";
+	static String webDriverPath="/root/chromedriver";
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
